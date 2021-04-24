@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Quaternion
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Quaternion	 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+normalize	 KEYWORD2
+normto	 KEYWORD2
+fromAngleVec	 KEYWORD2
+mult	 KEYWORD2
+rot	 KEYWORD2
+gyro	 KEYWORD2
+add	 KEYWORD2
+sub	 KEYWORD2
+getLength	 KEYWORD2
+inverse	 KEYWORD2
+copy	 KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
